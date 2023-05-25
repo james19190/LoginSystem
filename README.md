@@ -1,10 +1,10 @@
 <h1>Login System</h1>
 
-
+ ### [Video Demonstration](https://s3.us-east-2.amazonaws.com/programmingvideos.james19190/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%8B%A4%ED%96%89_Ex4.mp4)
+ 
 <h2>Description</h2>
 A simple login and logout project with admin controls and user methods
 <br />
-
 
 <h2>Languages and Utilities Used</h2>
 
@@ -14,6 +14,7 @@ A simple login and logout project with admin controls and user methods
 
 - <b>Windows 11</b> (21H2)
 
+<!--
 <h2>Program walk-through:</h2>
 
 <p align="center">
@@ -27,7 +28,6 @@ Select the disk:  <br/>
 
 </p>
 
-<!--
  ```diff
 - text in red
 + text in green
